@@ -64,5 +64,6 @@ Developed by: MANIKANDAN K
 ![image](https://github.com/user-attachments/assets/297b2955-c840-4d4b-a0a9-492d8b83c236)
 
 **RESULTS:**
+
 The  implementation of 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables had performed sucessfully.
 
